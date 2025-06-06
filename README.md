@@ -32,6 +32,7 @@ https://example.com/3
 usage:
 ```
 python3 denorm.py -f for_test -o res
+Сохранено 4 уникальных URL в файл 'res'.
 ```
 
 result:
