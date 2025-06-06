@@ -9,10 +9,18 @@ A Python script to process and deduplicate URLs from an input file. It normalize
 - Handles malformed URLs gracefully.
 - Outputs the count of unique URLs saved.
 
+## Install
+
+```
+git clone https://github.com/aleksey-vi/denorm.git
+cd denorm
+chmod +x denorm.py
+```
+
 ## Usage:
 
 ```
-python3 normalize_urls.py -f input.txt -o output.txt
+python3 denorm.py -f input.txt -o output.txt
 ```
 
 ### example
